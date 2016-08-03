@@ -5,7 +5,6 @@
 
 img {
   width: 400px;
-
 }
 
 .best {
@@ -13,10 +12,18 @@ img {
   color:blue;
 }
 
-ul {
-  margin-left: 20%;
+
+body {
+  padding: 50px;
+  text-align: center;
+  background-image: url("../img/background.png");
 }
 
-h1 {
-  margin-left: 15%;
+p {
+  font-family: serif;
+  font-size: 30px;
+}
+
+ul {
+  list-style: none;
 }
