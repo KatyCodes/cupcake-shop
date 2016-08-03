@@ -4,6 +4,14 @@
   font-weight: bolder;
 }
 
+.very_important {
+  background-color: #ff99ff;
+}
+
+.special {
+  background-color: #99ccff;
+}
+
 .info {
   font-family: fantasy;
   color: #9900cc;
