@@ -17,6 +17,11 @@
   color: #9900cc;
 }
 
+.bio {
+  font-style: italic;
+  background-color: grey;
+}
+
 img {
   width: 400px;
 }
