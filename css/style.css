@@ -1,10 +1,20 @@
 .flashy {
   font-family: cursive;
-  color: red;
+  color: #ff66cc;
+  font-weight: bolder;
+}
+
+.info {
+  font-family: fantasy;
+  color: #9900cc;
 }
 
 img {
   width: 400px;
+}
+
+img.info {
+  border: 3px solid #9900cc;
 }
 
 .best {
@@ -21,7 +31,7 @@ body {
 
 p {
   font-family: serif;
-  font-size: 30px;
+  font-size: 18px;
 }
 
 ul {
