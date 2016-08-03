@@ -5,4 +5,18 @@
 
 img {
   width: 400px;
+
+}
+
+.best {
+  font-family: impact;
+  color:blue;
+}
+
+ul {
+  margin-left: 20%;
+}
+
+h1 {
+  margin-left: 15%;
 }
