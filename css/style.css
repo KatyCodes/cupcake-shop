@@ -1,45 +1,13 @@
-.flashy {
-  font-family: cursive;
-  color: #ff66cc;
-  font-weight: bolder;
-}
-
-.very_important {
-  background-color: #ff99ff;
-}
-
-.special {
-  background-color: #99ccff;
-}
-
-.info {
-  font-family: fantasy;
-  color: #9900cc;
-}
-
-.bio {
-  font-style: italic;
-  background-color: grey;
-}
-
 img {
   width: 400px;
 }
 
-img.info {
-  border: 3px solid #9900cc;
-}
-
-.best {
-  font-family: impact;
-  color:blue;
-}
-
-
 body {
   padding: 50px;
   text-align: center;
-  background-image: url("../img/background.png");
+  background-image: url('../img/background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 p {
@@ -49,4 +17,30 @@ p {
 
 ul {
   list-style: none;
+}
+
+img {
+  border: 3px solid black;
+}
+
+.flashy {
+  font-family: cursive;
+  font-weight: bolder;
+}
+
+.info {
+  font-family: fantasy;
+}
+
+.bio {
+  font-style: italic;
+  background-color: white;
+}
+
+h2 {
+  background-color: white;
+}
+
+.best {
+  font-family: impact;
 }
